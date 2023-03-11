@@ -4,3 +4,4 @@ media/profile_pics/my_pic.jpg
 venv
 .DS_Store
 django_project/settings.py
+blog/migrations
