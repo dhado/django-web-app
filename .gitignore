@@ -1,0 +1,8 @@
+blog/__pycache__
+blog/__init__.py
+django_project/__init__.py
+django_project/__pycache__
+users/__pycache__
+users/__init__.py
+media/profile_pics/my_pic.jpg
+venv
