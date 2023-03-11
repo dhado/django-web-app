@@ -7,4 +7,4 @@ users/__init__.py
 media/profile_pics/my_pic.jpg
 venv
 .DS_Store
-django/settings.py
+django_project/settings.py
